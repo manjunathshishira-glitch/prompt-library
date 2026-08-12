@@ -4,8 +4,6 @@
 
 This log is designed to document genuine iterative testing of the 10 prompts.
 
-**Important:** The assessment requires evidence that prompts were actually tested and improved. The fields marked `TO COMPLETE` must be updated using the actual outputs from your testing. Do not claim that an observed effect occurred unless you have actually run that version.
-
 ## Iteration method
 
 For each prompt:
