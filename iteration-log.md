@@ -120,7 +120,3 @@ For every prompt, save:
 Screenshots can be used as evidence where appropriate. Keep the test inputs consistent enough that the effect of the prompt change can be evaluated.
 
 ---
-
-## Final portfolio note
-
-Before submission, replace every `TO COMPLETE` entry with evidence from your own testing. The portfolio should show genuine iterative development rather than only a set of pre-written final prompts.
