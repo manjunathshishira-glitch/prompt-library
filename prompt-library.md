@@ -95,7 +95,7 @@ High potential for a first-pass comparison against predefined criteria. HR must 
 
 ### Risks and Limitations
 
-The AI may treat inferred skills as evidence or incorrectly classify a requirement. Mitigate with explicit evidence requirements and a controlled Present/Partially Present/Not Present classification.
+The AI may treat inferred skills as evidence or incorrectly classify a requirement. Mitigate with explicit evidence requirements and a controlled Present/Partially Present/Not Present/Not Evidenced classification.
 
 ---
 
